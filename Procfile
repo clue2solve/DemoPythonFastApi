@@ -1,1 +1,1 @@
-web: cd /workspace/app && uvicorn app:app --port 8000
+web: ls -l && uvicorn app:app --port 8000
