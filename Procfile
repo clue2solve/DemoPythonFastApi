@@ -1,0 +1,1 @@
+web: cd /workspace/app && uvicorn app:app --port 8000
